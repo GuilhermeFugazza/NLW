@@ -2,6 +2,7 @@ import './styles/global.css';
 import './lib/dayjs'
 import { Header } from "./components/Header";
 import { SummaryTable } from "./components/SummaryTable";
+import { Link } from "react-router-dom"
 
 // import { Habit } from "./components/Habit"
 

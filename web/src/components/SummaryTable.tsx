@@ -17,7 +17,6 @@ const weekDays = [
 const summaryDates = generateDatesFromYearBeginning()
 const lastSummaryDates = summaryDates.slice(-60);
 
-
 const minimumSummaryDatesSize = 18 * 7 // 18 weeks
 const targetTotalSquares = 126;
 const currentSquares = lastSummaryDates.length;
